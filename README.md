@@ -1,10 +1,10 @@
-# VidhiSetu
+# VidhiSethu
 
 **Indian-legal research assistant** — retrieval-augmented generation with a **citation-audit** layer so answers stay grounded in sources.
 
 > **This repository is public architecture documentation only.** The application codebase is **closed source** while the product is in **closed beta**. Nothing here is a runnable deployment of the product.
 
-## What VidhiSetu does
+## What VidhiSethu does
 
 Natural-language queries over Indian legal material. Outputs pass through an audit pipeline before they reach the user — hallucination-prone claims are filtered or flagged when citations do not support them.
 
@@ -45,11 +45,11 @@ Natural-language queries over Indian legal material. Outputs pass through an aud
 | File | Purpose |
 |------|---------|
 | `README.md` | This document — public architecture overview |
-| `VidhiSetu_System_Design.docx` | Detailed design export for reviewers (admissions / mentors). **Not runnable code.** |
+| `VidhiSethu_System_Design.docx` | Detailed design export for reviewers (admissions / mentors). **Not runnable code.** |
 
 ## Links
 
-- **Portfolio case file:** [siddarthb07.github.io/siddarthb](https://siddarthb07.github.io/siddarthb/) (Issue #001 — VidhiSetu panel)
+- **Portfolio case file:** [siddarthb07.github.io/siddarthb](https://siddarthb07.github.io/siddarthb/) (Issue #001 — VidhiSethu panel)
 - **Builder:** [@Siddarthb07](https://github.com/Siddarthb07)
 
 ## Collaboration
